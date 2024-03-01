@@ -7,6 +7,11 @@ Pattern Correlation Functions
 Contains primary functions for computing non-transient
 and transient pattern correlations with spatial weighting.
 
+This is the Python version of the 'pattern_cor' function from NCL
+https://www.ncl.ucar.edu/Document/Functions/Contributed/pattern_cor.shtml
+
+
+
 Developers: Cameron Cummins (1), Kayla White (2)
 Contacts: cameron.cummins@utexas.edu (1), kaylaw@utexas.edu (2)
 3/1/24
