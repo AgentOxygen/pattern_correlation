@@ -20,5 +20,5 @@ More documentation to follow.
 Simple unit tests to follow as well.
 
 # Acknowledgements
-[Adam Philips at NCAR CGD Lab](https://staff.cgd.ucar.edu/asphilli/)
+[Adam Phillips at NCAR CGD Lab](https://staff.cgd.ucar.edu/asphilli/)
 
